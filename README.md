@@ -1,3 +1,5 @@
+![WebGL MVP矩阵控制演示](jp.png)
+
 # MVP矩阵键盘控制说明
 
 本示例展示了如何通过键盘控制WebGL中的MVP（Model-View-Projection）矩阵，实现交互式3D场景控制。
